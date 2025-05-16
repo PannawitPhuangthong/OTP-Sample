@@ -1,2 +1,2 @@
 # OTP-Sample
-เป็น OTP 2 ชั้นที่จะส่ง OTP ไปที่ Discord และ Email
+A two-factor authentication system that sends OTP codes to both Discord and email.
